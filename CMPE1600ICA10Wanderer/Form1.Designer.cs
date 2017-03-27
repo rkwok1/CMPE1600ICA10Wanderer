@@ -78,6 +78,7 @@
             // 
             // UI_Timer1
             // 
+            this.UI_Timer1.Enabled = true;
             this.UI_Timer1.Interval = 20;
             this.UI_Timer1.Tick += new System.EventHandler(this.UI_Timer1_Tick);
             // 
@@ -92,6 +93,7 @@
             this.Controls.Add(this.UI_TrackBar_NumberOfIterations);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.UI_TrackBar_NumberOfIterations)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

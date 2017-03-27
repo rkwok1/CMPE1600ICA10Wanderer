@@ -1,1 +1,10 @@
 C:\Users\rkwok2\Documents\GitHub\CMPE1600ICA10Wanderer\CMPE1600ICA10Wanderer\bin\Debug\CMPE1600ICA10Wanderer.exe.config
+C:\Users\rkwok2\Documents\GitHub\CMPE1600ICA10Wanderer\CMPE1600ICA10Wanderer\bin\Debug\CMPE1600ICA10Wanderer.exe
+C:\Users\rkwok2\Documents\GitHub\CMPE1600ICA10Wanderer\CMPE1600ICA10Wanderer\bin\Debug\CMPE1600ICA10Wanderer.pdb
+C:\Users\rkwok2\Documents\GitHub\CMPE1600ICA10Wanderer\CMPE1600ICA10Wanderer\bin\Debug\GDIDrawer.dll
+C:\Users\rkwok2\Documents\GitHub\CMPE1600ICA10Wanderer\CMPE1600ICA10Wanderer\obj\Debug\CMPE1600ICA10Wanderer.csprojResolveAssemblyReference.cache
+C:\Users\rkwok2\Documents\GitHub\CMPE1600ICA10Wanderer\CMPE1600ICA10Wanderer\obj\Debug\CMPE1600ICA10Wanderer.Form1.resources
+C:\Users\rkwok2\Documents\GitHub\CMPE1600ICA10Wanderer\CMPE1600ICA10Wanderer\obj\Debug\CMPE1600ICA10Wanderer.Properties.Resources.resources
+C:\Users\rkwok2\Documents\GitHub\CMPE1600ICA10Wanderer\CMPE1600ICA10Wanderer\obj\Debug\CMPE1600ICA10Wanderer.csproj.GenerateResource.Cache
+C:\Users\rkwok2\Documents\GitHub\CMPE1600ICA10Wanderer\CMPE1600ICA10Wanderer\obj\Debug\CMPE1600ICA10Wanderer.exe
+C:\Users\rkwok2\Documents\GitHub\CMPE1600ICA10Wanderer\CMPE1600ICA10Wanderer\obj\Debug\CMPE1600ICA10Wanderer.pdb
